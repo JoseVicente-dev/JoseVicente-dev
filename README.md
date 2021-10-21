@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseVicente-dev. I'm a chemical engineer and I live in Colombia
+- 👋 Hi, I’m @JoseVicente-dev aka BOTakon. I'm a chemical engineer and I live in Colombia
 - 👀 I’m interested in Data Analysis, Software development and R&D
 - 🌱 I’m currently learning Web Development as part of a short program given by the goverment's IT Ministry
 - 💞️ I’m looking to collaborate on software development
