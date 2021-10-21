@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Software development and R&D
 - 🌱 I’m currently learning Web Development as part of a short program given by the goverment's IT Ministry
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me: email: velasco.josevicente@gmail.com
+- 📫 How to reach me: velasco.josevicente@gmail.com
 
 
 <!---
