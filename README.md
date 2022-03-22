@@ -9,7 +9,8 @@
   - Typescript, 
   - SQL, 
   - MySQL, 
-  - test automation, 
+  - test automation,
+  - QA
   - Selenium, 
   - BDD, 
   - Cucumber,
