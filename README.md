@@ -3,12 +3,10 @@
 - 🌱 I’m currently a *QA trainee* at [**Sofka Tech**](https://www.sofka.com.co/about-us/), a well known development company here in Colombia. I was part of [**MisionTIC2022**](https://www.misiontic2022.gov.co/portal/Secciones/Mision-TIC-2022/), a learning program focused in fullstack web development, given by the goverment's [**Ministry of ICT**](https://mintic.gov.co/portal/inicio/Micrositios/English-overview/Ministry-of-ICT/)
 - 💞️ I have knowledge in 
   - MERN stack, 
-  - Java, 
-  - Python, 
+  - Java, Python
   - SASS
   - Typescript, 
-  - SQL, 
-  - MySQL, 
+  - SQL, MySQL
   - test automation,
   - QA
   - Selenium, 
