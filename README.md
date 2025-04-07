@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Jose Vicente** aka ***BOTakon***. I'm a colombian chemical engineer and software tester/developer.
-- 👀 I’m interested in Data Analysis, Software QA, Backend development and R&D
+- 👀 I’m interested in Software QA, Backend development and R&D
 - 🌱 I’m currently an *Automation Analyst* at [**Sofka Tech**](https://www.sofka.com.co/about-us/), a well known development company here in Colombia. I was part of [**MisionTIC2022**](https://www.misiontic2022.gov.co/portal/Secciones/Mision-TIC-2022/), a learning program focused in fullstack web development, given by the goverment's [**Ministry of ICT**](https://mintic.gov.co/portal/inicio/Micrositios/English-overview/Ministry-of-ICT/)
 - 💞️ I have knowledge in 
   - MERN stack, 
