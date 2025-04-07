@@ -16,7 +16,7 @@
   - Screenplay pattern,
   - API testing (SOAP, REST)
   - Agile development & testing (SCRUM).
-- 📫 How to reach me: [**LinkedIn profile**](https://www.linkedin.com/in/jose-vicente-velasco-lopez/?locale=en_US), **email**: velasco.josevicente@gmail.com
+- 📫 How to reach me: [**LinkedIn profile**](https://www.linkedin.com/in/jose-vicente-velasco-lopez), **email**: velasco.josevicente@gmail.com
 
 
 <!---
